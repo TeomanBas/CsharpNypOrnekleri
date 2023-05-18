@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Nyp-linq-list-GenericTip_Uygulamasi", "3-Nyp-linq-list-GenericTip_Uygulamasi\3-Nyp-linq-list-GenericTip_Uygulamasi.csproj", "{E3A24DAF-B5E3-422F-A36D-B6B6A50AC061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3A24DAF-B5E3-422F-A36D-B6B6A50AC061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A24DAF-B5E3-422F-A36D-B6B6A50AC061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A24DAF-B5E3-422F-A36D-B6B6A50AC061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A24DAF-B5E3-422F-A36D-B6B6A50AC061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FE98694-6C5A-4BF7-8613-D76299DD53FC}
+	EndGlobalSection
+EndGlobal
