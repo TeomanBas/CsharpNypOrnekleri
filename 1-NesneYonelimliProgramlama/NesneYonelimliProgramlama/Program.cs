@@ -107,6 +107,13 @@ namespace NesneYonelimliProgramlama
             ihsan.SetYas(0);
             var IhYas=ihsan.GetYas();
             Console.WriteLine(IhYas);
+
+            // Dizi şeklinde birden çok nesne oluşturulabilir
+
+            insan[] insanlar = new insan[3];
+            insanlar[1] = ali;
+            insanlar[2] = ihsan;
+            Console.WriteLine($"alinin kilosu {insanlar[1].GetKilo()} ve ihsanın kilosu {insanlar[2].GetKilo()}");
         }
     }
 }
